@@ -87,3 +87,9 @@ a.font-black {
 #project .card-title {
   font-weight: bold;
 }
+
+@media only screen and (max-width: 397px) {
+  #about .skills {
+    margin: 0 2px 0 2px;
+  }
+}
