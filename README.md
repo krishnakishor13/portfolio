@@ -1,8 +1,8 @@
 ## portfolio
 This is a portfolio creates for educational purpose
 
-![image]
-![Screenshot](https://user-images.githubusercontent.com/91717723/136141255-70bec11f-e75d-415a-9835-ae28765615c6.png)
+![Screenshot 2021-10-06 at 11 15 27 AM](https://user-images.githubusercontent.com/91717723/136147125-de89a57c-a82b-4717-8581-69a4ed150f80.png)
+
 
 ## Technologies Used
 * Bootstrap
